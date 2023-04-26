@@ -7,6 +7,6 @@
 
 ### Projekt starten:
 
-- 1. npm run sass-dev
+- npm run sass-dev
 
-- 2. npm run sass-prod 
+- npm run sass-prod 
