@@ -3,7 +3,7 @@
 Einfaches SCSS Grundgerüst mit NPM 
 
 
-Projekt staten:
+Projekt starten:
 
 1.
 npm run sass-dev
